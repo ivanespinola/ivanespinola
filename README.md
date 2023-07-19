@@ -1,6 +1,6 @@
  # ¡Hola 👋! Soy Ivan Espinola 👨🏻‍💻
  
-### Sobre mí
+## 🙋‍♂ Sobre mí 
 
  ```js
 const ivan = {
