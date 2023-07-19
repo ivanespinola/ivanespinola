@@ -1,16 +1,26 @@
-### Hi there 👋
+ # ¡Hola 👋! Soy Ivan Espinola 👨🏻‍💻
+ 
+### About me
 
-<!--
-**ivanespinola/ivanespinola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ```js
+const ivan = {
+  pronouns: "he" | "him",
+  askMeAbout: ["web dev", "tech", "games", "sports"],
+  code: [JavaScript, PHP, HTML, CSS, Python, Java],
+  technologies:{
+      frontEnd: {
+         js: ["React"]
+      },
+      backEnd: {
+         js: ["Node"]
+      },
+      database: ["PostgreSQL", "MySQL", "MariaDB"]
+  },
+  OS: ["Linux", "Windows"],
+  codeEditor: "VSCode",
+  currentOccupation: "Open for job opportunities!",
+  challenges: "Working on personal projects using React"
+}
+```
+ <h4 align="center"><strong>¡Revisa mi contenido 👇!</strong></h4>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
