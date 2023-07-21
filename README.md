@@ -19,7 +19,7 @@ const ivan = {
   OS: ["Linux", "Windows"],
   codeEditor: "VSCode",
   currentOccupation: "Open for job opportunities!",
-  challenges: "Working on personal projects using React"
+  challenges: "Working on personal projects and learning TypeScript"
 }
 ```
  <h4 align="center"><strong>¡Revisa mi contenido 👇!</strong></h4>
