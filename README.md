@@ -1,4 +1,4 @@
- # ¡Hi 👋! I'm Ivan Espinola
+ # Hi 👋! I'm Ivan Espinola
  
  I'm a web developer passionate about turning ideas into reality with code. If the perfect code existed, I'd probably still be looking for it!
 
